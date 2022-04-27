@@ -1,5 +1,4 @@
 # Automat Skończony
-1.	Treść zadania<br />
  ![image](https://user-images.githubusercontent.com/46067911/165522877-84598ada-175d-414d-a399-8db1984e19e3.png)<br />
 
 ![image](https://user-images.githubusercontent.com/46067911/165522910-836fca2a-75d4-4e73-8e71-5208fd91144b.png)<br />
