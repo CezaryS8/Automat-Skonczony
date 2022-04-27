@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+D:\Users\Skorupski_Cezary\Desktop\WYKLADY\podstawy informatyki LAB\AutomatySkonczony_CezarySkorupski_321149\AS\ASprojekt\MyForm.h(648,1): warning C4267: 'initializing': conversion from 'size_t' to 'int16_t', possible loss of data
+D:\Users\Skorupski_Cezary\Desktop\WYKLADY\podstawy informatyki LAB\AutomatySkonczony_CezarySkorupski_321149\AS\ASprojekt\MyForm.h(686,1): warning C4267: 'initializing': conversion from 'size_t' to 'int16_t', possible loss of data
+D:\Users\Skorupski_Cezary\Desktop\WYKLADY\podstawy informatyki LAB\AutomatySkonczony_CezarySkorupski_321149\AS\ASprojekt\MyForm.cpp(12,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ASprojekt.vcxproj -> D:\Users\Skorupski_Cezary\Desktop\WYKLADY\podstawy informatyki LAB\AutomatySkonczony_CezarySkorupski_321149\AS\Debug\ASprojekt.exe

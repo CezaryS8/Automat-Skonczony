@@ -1,0 +1,6 @@
+D:\Users\Skorupski_Cezary\Desktop\WYKLADY\podstawy informatyki LAB\AS\ASprojekt\Debug\ASprojekt.vcxproj.AssemblyReference.cache
+D:\Users\Skorupski_Cezary\Desktop\WYKLADY\podstawy informatyki LAB\AS\ASprojekt\Debug\ASprojekt.MyForm.resources
+D:\Users\Skorupski_Cezary\Desktop\WYKLADY\podstawy informatyki LAB\AS\ASprojekt\Debug\ASprojekt.vcxproj.GenerateResource.cache
+D:\Users\Skorupski_Cezary\Desktop\WYKLADY\podstawy informatyki LAB\AutomatySkonczony_CezarySkorupski_321149\AS\ASprojekt\Debug\ASprojekt.vcxproj.AssemblyReference.cache
+D:\Users\Skorupski_Cezary\Desktop\WYKLADY\podstawy informatyki LAB\AutomatySkonczony_CezarySkorupski_321149\AS\ASprojekt\Debug\ASprojekt.MyForm.resources
+D:\Users\Skorupski_Cezary\Desktop\WYKLADY\podstawy informatyki LAB\AutomatySkonczony_CezarySkorupski_321149\AS\ASprojekt\Debug\ASprojekt.vcxproj.GenerateResource.cache
